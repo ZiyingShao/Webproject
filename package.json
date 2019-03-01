@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is the web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyingShao/Webproject.git"
+  },
+  "author": "zyshzhjfr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyingShao/Webproject/issues"
+  },
+  "homepage": "https://github.com/ZiyingShao/Webproject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
